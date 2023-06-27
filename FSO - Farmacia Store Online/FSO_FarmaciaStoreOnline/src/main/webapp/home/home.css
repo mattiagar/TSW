@@ -1,4 +1,7 @@
 
+.body{
+    background-color: #2a5324;
+}
 /*Menu categorie*/
 .dropdown {
     position: relative;
@@ -30,3 +33,16 @@ li {                                /*Rimuoviamo le interruzioni di riga prima e
     display: inline;
 }
 /*Fine navigation bar orizzontale*/
+
+/* Footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+
