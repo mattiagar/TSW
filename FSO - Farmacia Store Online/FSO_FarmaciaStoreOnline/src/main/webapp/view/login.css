@@ -15,37 +15,30 @@
     margin-bottom: -2%;
     margin-top: -1%;
 }
-.titolo{
-    font-size: 35px;
-    margin-top: 7%;
-    margin-left: 25%;
-    margin-right: 25%;
-    color: #1f80c8;
-}
 
-
-
-.button {
+.credenziali{
     text-decoration: none;
     position: relative;
-    margin-top: 0%;
+    margin-top: 10%;
     margin-left: 25%;
     margin-right: 25%;
     padding: 20px 60px;
-    color: black;
+    color: white;
     background-color: #1f80c8;
     z-index: 0;
     text-align: center;
 
 }
 
-.button1{
-    margin-right: 80px;
-}
 
-.button2{
-    margin-left: 80px;
-}
+
+
+
+
+
+
+
+
 
 
 
